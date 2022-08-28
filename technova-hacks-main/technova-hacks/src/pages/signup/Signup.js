@@ -33,7 +33,7 @@ const Signup = () => {
       </section>
       <section className='main'>
         <div className='signup-container'>
-          <p className='title'>Create an accout!</p>
+          <p className='title'>Create an account!</p>
           <div className='separator'></div>
           <p className='welcome-message'>Scheduling made easy - Now never miss a class with a friend!</p>
 
