@@ -1,3 +1,5 @@
+# Devpost: https://devpost.com/software/schedulens
+
 # scheduLens
 Technova hackathon project 2022
 
